@@ -1,0 +1,80 @@
+body{
+    border: 4px solid;
+    border-radius: 2%;
+}
+.buton{
+    text-align: center;
+    padding: 2%;
+    
+    
+}
+.buton button{
+    width: 50%;
+    border-radius: 5rem;
+    font-size: medium;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.socialMedia{
+    width: 100%;
+    padding: 25px;
+    
+}    
+.twitter{
+    height: 45px;
+    width: 45px;
+    border-radius: 100%;
+    border: 2px solid;
+    overflow:hidden;
+    background-color: aqua;
+    display: inline-block;
+    margin-left: 175px;
+    padding: 8px;
+    
+}
+.instagram{
+    height: 45px;
+    width: 45px;
+    border-radius: 100%;
+    border: 2px solid;
+    overflow: hidden;
+    background-color: brown;
+    display:inline-block;
+    margin-left: 200px;
+    padding: 8px;
+}
+.linkedin{
+    height: 45px;
+    width: 45px;
+    border-radius: 100%;
+    border: 2px solid;
+    overflow: hidden;
+    background-color: blueviolet;
+    display: inline-block;
+    margin-left: 250px;
+    padding: 8px;
+}
+.facebook{
+    height: 45px;
+    width: 45px;
+    border-radius: 100%;
+    border: 2px solid ;
+    overflow: hidden;
+    background-color: blue;
+    display: inline-block;
+    margin-left: 225px;
+    padding: 8px;
+}
+
+.resim img{
+    width: 98%;
+    border-radius: 3%;
+    margin-left: 10px;
+    
+    
+}
+.yazi{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 6%;
+}    
